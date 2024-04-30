@@ -19,8 +19,8 @@ Download and pre-process the data before running the experiments.
     - pre-processing in "./datasets/CEBaB-v1.1"
 - GloVe : 
     - data: 
-        https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-gender-data.pickle (GloVe embeddings with gender-bias labels)
-        https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-top-50k.pickle (150k GloVe embeddings)
+        - https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-gender-data.pickle (GloVe embeddings with gender-bias labels)
+        - https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-top-50k.pickle (150k GloVe embeddings)
 
         
 
