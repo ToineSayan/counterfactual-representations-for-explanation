@@ -14,7 +14,15 @@ Download and pre-process the data before running the experiments.
 
 - EEEC+:  data and pre-processing in "./datasets/EEEC/EEEC_3race"
 - BiasInBios: data and pre-processing in "./datasets/biasbios"
-- CEBaB: data and pre-processing in "./datasets/CEBaB-v1.1"
+- CEBaB: 
+    - data: https://cebabing.github.io/CEBaB/
+    - pre-processing in "./datasets/CEBaB-v1.1"
+- GloVe : 
+    - data: 
+        https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-gender-data.pickle (GloVe embeddings with gender-bias labels)
+        https://nlp.biu.ac.il/~ravfogs/rlace/glove/glove-top-50k.pickle (150k GloVe embeddings)
+
+        
 
 ## Experiments on synthetic data (sections 5.1 and 5.2)
 
