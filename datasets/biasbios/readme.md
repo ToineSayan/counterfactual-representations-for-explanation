@@ -4,7 +4,7 @@
 
 ### Download 
 
-(Version used in the article "Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection, Ravfogel et al., 2O20")
+(Version used in the article "Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection, Ravfogel et al., 2020")
 ```bash
 mkdir -p data/biasbios
 wget https://storage.googleapis.com/ai2i/nullspace/biasbios/train.pickle -P data/biasbios/
