@@ -1,6 +1,8 @@
 # Explaining text classifiers with counterfactual representations
 
-This repository contains the code, data, and supplementary material for the experiments included in the paper 'Explaining text classifiers with counterfactual representations', accepted at ECAI 2024 (to appear).
+This repository contains the code, data, and supplementary material for the experiments included in the paper:
+
+Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations.](https://ebooks.iospress.nl/doi/10.3233/FAIA240576) In Proceedings of ECAI 2024 - 27th European Conference on Artificial Intelligence, pp. 890-897.
 
 ## Environment
 
